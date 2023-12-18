@@ -13,7 +13,26 @@
 
 Скриншоты для первого задания:
 ![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/1.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/2.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/3.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/4.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/5.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/6.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/7.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/8.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/9.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/10.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/11.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/12.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/13.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/14.PNG)
+![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/15.PNG)
+
 ![screenshots result 16-20](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/16.PNG)
+![screenshots result 16-20](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/17.PNG)
+![screenshots result 16-20](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/18.PNG)
+![screenshots result 16-20](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/19.PNG)
+![screenshots result 16-20](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/20.PNG)
 
 ---
 
@@ -30,6 +49,9 @@
 Скриншоты для второго задания: 
 
 ![screenshots result 2.1 - 2.4](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/2.1.PNG)
+![screenshots result 2.1 - 2.4](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/2.2.PNG)
+![screenshots result 2.1 - 2.4](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/2.3.PNG)
+![screenshots result 2.1 - 2.4](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/2.4.PNG)
 
 При выполнении второго задания был добавлен код в pipeline. При выполнении кода возникает ошибка при проверке наличия языка go. Скриншот из терминала машины показывает, что данный пакет установлен. 
 ---
@@ -47,6 +69,9 @@
 Скриншоты для третьего задания: 
 
 ![screenshots result 3.1 -3.4](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/3.1.PNG)
+![screenshots result 3.1 -3.4](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/3.2.PNG)
+![screenshots result 3.1 -3.4](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/3.3.PNG)
+![screenshots result 3.1 -3.4](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/3.4.PNG)
 
 При выполнении третьего задания возникли вопросы по изменению pipeline. Правильно ли выглядит команда. Также возникает ошибка при попытке выполнения sh 'go test .'
 
