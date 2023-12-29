@@ -14,27 +14,22 @@
 Приложите в файл README.md текст использованных команд в GitHub.
 
 Скриншоты для первого задания:
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/1.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/2.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/3.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/4.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/5.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/6.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/7.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/8.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/9.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/10.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/11.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/12.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/13.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/14.PNG)
-![screenshots process 1-15](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/15.PNG)
-
-![screenshots result 16-20](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/16.PNG)
-![screenshots result 16-20](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/17.PNG)
-![screenshots result 16-20](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/18.PNG)
-![screenshots result 16-20](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/19.PNG)
-![screenshots result 16-20](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/20.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/1.1.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/1.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/2.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/3.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/4.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/5.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/6.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/7.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/8.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/9.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/10.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/11.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/12.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/13.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/14.PNG)
+![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG/15.PNG)
 
 ---
 
@@ -56,10 +51,6 @@
 
 Скриншоты для второго задания: 
 
-![screenshots result 2.1 - 2.4](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/2.1.PNG)
-![screenshots result 2.1 - 2.4](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/2.2.PNG)
-![screenshots result 2.1 - 2.4](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/2.3.PNG)
 ![screenshots result 2.1 - 2.4](https://github.com/Lamofaq/YANA_U-gitlab-hw/blob/main/img/2.4.PNG)
 
-При выполнении второго задания был добавлен код в pipeline. При выполнении кода возникает ошибка при проверке наличия языка go. Скриншот из терминала машины показывает, что данный пакет установлен. 
 ---
