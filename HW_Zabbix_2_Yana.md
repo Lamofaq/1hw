@@ -48,7 +48,7 @@
 Задание 3 ![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG2/6.PNG)
 Задание 3 ![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG2/7%20serv.PNG)
 Задание 3 ![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG2/8%20host.PNG)
-Задание 3 ![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG2/10.PNG)
+Задание 3 ![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG2/10.png)
 
 Задание 3 ![screenshots](https://github.com/Lamofaq/1hw/blob/main/IMG2/11%20no%202%20temp.PNG)
 
